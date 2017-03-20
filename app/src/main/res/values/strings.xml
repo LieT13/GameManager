@@ -1,3 +1,9 @@
 <resources>
+    <string name="add_player_button_send">Add player</string>
     <string name="app_name">GameManager</string>
+    <string name="welcome">Welcome to Game Manager!</string>
+    <string name="game_name">Enter a game name</string>
+    <string name="game_name_button_send">New game</string>
+    <string name="new_player">Enter player name</string>
+    <string name="start_game_button_send">Start game</string>
 </resources>
